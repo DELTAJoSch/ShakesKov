@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShakesKovDbCreator", "ShakesKovDbCreator\ShakesKovDbCreator.csproj", "{5E866BE2-8662-46BC-865D-A51793F0DB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E866BE2-8662-46BC-865D-A51793F0DB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E866BE2-8662-46BC-865D-A51793F0DB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E866BE2-8662-46BC-865D-A51793F0DB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E866BE2-8662-46BC-865D-A51793F0DB14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BE63FA5-4C11-46AA-92E8-1792844983AF}
+	EndGlobalSection
+EndGlobal
